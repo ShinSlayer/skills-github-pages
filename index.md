@@ -1,5 +1,5 @@
 ---
-title: **wazzzzzzup!**
+title: wazzzzzzup!
 ---
 
-hello gang welcome to my riveting page
+**hello gang welcome to my riveting page**
