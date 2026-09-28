@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: **wazzzzzzup!**
 ---
+
+hello gang welcome to my riveting page
